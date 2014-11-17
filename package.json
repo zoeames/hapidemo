@@ -1,0 +1,22 @@
+{
+  "name": "hapidemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zoeames/hapidemo.git"
+  },
+  "author": "Zoe Ames",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoeames/hapidemo/issues"
+  },
+  "homepage": "https://github.com/zoeames/hapidemo",
+  "dependencies": {
+    "hapi": "^7.5.2"
+  }
+}
